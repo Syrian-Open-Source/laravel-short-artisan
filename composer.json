@@ -1,0 +1,38 @@
+{
+    "name": "roduankd/laravel-short-artisan",
+    "description": "A set on php artisan aliases (for windows only)",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Roduan Kareem Aldeen",
+            "email": "roduan98@gmail.com"
+        }
+    ],
+    "require": {},
+    "bin": [
+        "bin/art.bat",
+        "bin/clear.bat",
+        "bin/controller.bat",
+        "bin/event.bat",
+        "bin/factory.bat",
+        "bin/fresh.bat",
+        "bin/link.bat",
+        "bin/listen.bat",
+        "bin/listener.bat",
+        "bin/make.bat",
+        "bin/migrate.bat",
+        "bin/model.bat",
+        "bin/mtest.bat",
+        "bin/notification.bat",
+        "bin/pest.bat",
+        "bin/policy.bat",
+        "bin/publish.bat",
+        "bin/request.bat",
+        "bin/resource.bat",
+        "bin/seed.bat",
+        "bin/seeder.bat",
+        "bin/serve.bat",
+        "bin/test.bat",
+        "bin/tinker.bat"
+    ]
+}
