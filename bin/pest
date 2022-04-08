@@ -1,6 +1,0 @@
-#!/usr/bin/env php
-<?php
-system('
-@echo off
-art make:test %* --pest
-');

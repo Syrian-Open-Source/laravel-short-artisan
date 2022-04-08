@@ -10,29 +10,6 @@
     ],
     "require": {},
     "bin": [
-        "bin/art",
-        "bin/clear",
-        "bin/controller",
-        "bin/event",
-        "bin/factory",
-        "bin/fresh",
-        "bin/link",
-        "bin/listen",
-        "bin/listener",
-        "bin/make",
-        "bin/migrate",
-        "bin/model",
-        "bin/mtest",
-        "bin/notification",
-        "bin/pest",
-        "bin/policy",
-        "bin/publish",
-        "bin/request",
-        "bin/resource",
-        "bin/seed",
-        "bin/seeder",
-        "bin/serve",
-        "bin/test",
-        "bin/tinker"
+        "bin/shrt-art-install"
     ]
 }
