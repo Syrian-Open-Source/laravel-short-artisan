@@ -1,6 +1,6 @@
 <?php
 
-recurseCopy(__DIR__ . '../bats/', __DIR__ . '../../bin/');
+recurseCopy(__DIR__ . '/../bats/', __DIR__ . '/../../bin/');
 
 function recurseCopy(
     string $sourceDirectory,
