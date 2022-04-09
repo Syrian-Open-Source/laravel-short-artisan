@@ -1,6 +1,6 @@
 {
-    "name": "roduankd/laravel-short-artisan",
-    "description": "A set on php artisan aliases (for windows only)",
+    "name": "syrian-open-source/laravel-short-artisan",
+    "description": "A set of php artisan aliases (for windows only)",
     "license": "MIT",
     "authors": [
         {
