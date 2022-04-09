@@ -1,8 +1,9 @@
 # Laravel Short Artisan
 
-This package is meant to be installed globally, and it's a set of aliases for php artisan commands. It doesn't require anything to be installed just add it with composer as a global dependency, and you're good to go.
+This package is meant to be installed globally, and it's a set of aliases for php artisan commands. It doesn't require anything to be installed just add it with composer as a global dependency, run the installation command, and you're good to go.
 ```shell
 composer global require syrian-open-source/laravel-short-artisan
+short-artisan-install
 ```
 
 #Usage
@@ -44,6 +45,13 @@ model Post -crm
 | `serve`        | `php artisan serve`             |
 | `test`         | `php artisan test`              |
 | `tinker`       | `php artisan make:tinker`       |
+
+Uninstallation
+--------------
+To remove the aliases all you have to do is run this command:
+```shell
+short-artisan-uninstall
+```
 
 TODO
 ----
