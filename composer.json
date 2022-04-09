@@ -10,6 +10,7 @@
     ],
     "require": {},
     "bin": [
-        "bin/shrt-art-install"
+        "bin/shrt-art-install",
+        "bin/shrt-art-uninstall"
     ]
 }

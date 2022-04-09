@@ -47,9 +47,10 @@ model Post -crm
 
 TODO
 ----
-- [ ] Add uninstall command
+- [x] Add uninstall command
 - [ ] Add support to all artisan commands
 - [ ] Refactor commands with `symfony/console`
+- [ ] Add output to commands
 
 Changelog
 ---------
