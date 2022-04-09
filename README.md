@@ -45,6 +45,12 @@ model Post -crm
 | `test`         | `php artisan test`              |
 | `tinker`       | `php artisan make:tinker`       |
 
+TODO
+----
+- [ ] Add uninstall command
+- [ ] Add support to all artisan commands
+- [ ] Refactor commands with `symfony/console`
+
 Changelog
 ---------
 Please see the [CHANGELOG](https://github.com/syrian-open-source/laravel-short-artisan/blob/master/CHANGELOG.md) for
