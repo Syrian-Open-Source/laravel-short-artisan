@@ -3,5 +3,6 @@
 $files = scandir(__DIR__ . '/../bats/');
 
 foreach ($files as $file) {
+    if ($file === '.' || $file === '..') continue;
     unlink(__DIR__ . '/../../../bin/' . $file);
 }
