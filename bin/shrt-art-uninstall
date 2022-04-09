@@ -1,7 +1,7 @@
 <?php
 
-$files = scandir(__FILE__ . '/../bats/');
+$files = scandir(__DIR__ . '/../bats/');
 
 foreach ($files as $file) {
-    unlink(__FILE__ . '/../../../bin/' . $file);
+    unlink(__DIR__ . '/../../../bin/' . $file);
 }
