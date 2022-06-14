@@ -1,5 +1,11 @@
 # Laravel Short Artisan
 
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/Syrian-Open-Source/laravel-short-artisan.svg?style=flat-square)](https://packagist.org/packages/Syrian-Open-Source/laravel-short-artisan)
+[![Total Downloads](https://img.shields.io/packagist/dt/Syrian-Open-Source/laravel-short-artisan.svg?style=flat-square)](https://packagist.org/packages/Syrian-Open-Source/laravel-short-artisan)
+[![GitHub stars](https://img.shields.io/github/stars/Syrian-Open-Source/laravel-short-artisan)](https://github.com/Syrian-Open-Source/laravel-short-artisan/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/Syrian-Open-Source/laravel-short-artisan)](https://github.com/Syrian-Open-Source/laravel-short-artisan/issues)
+[![GitHub forks](https://img.shields.io/github/forks/Syrian-Open-Source/laravel-short-artisan)](https://github.com/Syrian-Open-Source/laravel-short-artisan/network)
+
 This package is meant to be installed globally, and it's a set of aliases for php artisan commands. It doesn't require anything to be installed just add it with composer as a global dependency, run the installation command, and you're good to go.
 ```shell
 composer global require syrian-open-source/laravel-short-artisan
