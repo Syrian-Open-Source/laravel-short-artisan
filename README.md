@@ -36,6 +36,7 @@ model Post -crm
 | `listener`     | `php artisan make:listener`     |
 | `factory`      | `php artisan make:factory`      |
 | `make`         | `php artisan make:`             |
+| `mail`         | `php artisan make:mail`         |
 | `middleware`   | `php artisan make:middleware`   |
 | `migrate`      | `php artisan migrate`           |
 | `migration`    | `php artisan make:migration`    |
