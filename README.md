@@ -12,7 +12,7 @@ composer global require syrian-open-source/laravel-short-artisan
 short-artisan-install
 ```
 
-#Usage
+## Usage
 
 Once this package is installed go to any Laravel project folder and use it:
 ```shell
